@@ -1,9 +1,9 @@
 ## Um pouco sobre mim:
 
-- cursando desenvolvimento de sistemas na ETEC
-- artista digital experimentando com multimidia
-- interessado em gamedev e web design
-- autodidata e obcecado em me desafiar
+- Cursando Desenvolvimento de Sistemas na ETEC
+- Artista digital experimentando com multimidia
+- Interessado em gamedev e web design
+- Autodidata, obcecado em me desafiar!
 
 ### Atualmente estudando/trabalhando com
 
