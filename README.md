@@ -2,7 +2,7 @@
 
 - Cursando Desenvolvimento de Sistemas na ETEC
 - Artista digital experimentando com multimidia
-- Interessado em gamedev e web design
+- Interessado em desenvolvimento front-end e design de videogames
 - Autodidata, obcecado em me desafiar!
 
 ### Atualmente estudando/trabalhando com
